@@ -1,6 +1,11 @@
 {
     "id": 1,
     "title": "test",
-    "name": "test_user"
+    "name": "test_user",
+    "array": [
+        "id": 1,
+        "title": "test",
+        "name": "test_user"
+    ]
 }
 
