@@ -17,5 +17,23 @@
 	"plan_list": [
 		{ "name": "ひろせまいぷらん", "created": "2022年10月05日作成"},
 		{ "name": "ひろせまいぷらん2", "created": "20xx年05月10日作成"}
+	],
+	"okiniiri": [
+		{
+		  "name": "名前",
+		  "detail": "詳細",
+		  "place_id": 1,
+		  "photos": [
+			"URL1",
+			"URL2",
+			"URL3"
+		  ],
+		  "tags": [
+			"tag1",
+			"tag2",
+			"tag3"
+		  ]
+		}
 	]
+
 }
